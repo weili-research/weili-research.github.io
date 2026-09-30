@@ -8,7 +8,7 @@ date: 2025-01-01
 venue: 'IEEE/ASME Transactions on Mechatronics, 1-12'
 paperurl: '/files/papers/2025-a-high-power-density-ultralow-frequency-energy-harvester.pdf'
 publication_info: '<i>IEEE/ASME Transactions on Mechatronics, 1-12</i> (2025).'
-authors: 'S Fan, H Chi, Y Yao, C Gao, D Hou, <strong>Wei Li</strong>, Y Cao.'
+authors: 'S Fan, H Chi, Y Yao, C Gao, D Hou, <strong>Wei Li</strong>, Y Cao*.'
 ---
 
 [<i>A High-Power-Density Ultralow-Frequency Energy Harvester Based on a Magnetic Rotor With Built-In Eccentricity and Ferromagnetic Fillers</i>](/files/papers/2025-a-high-power-density-ultralow-frequency-energy-harvester.pdf) — Fan, S., Chi, H., Yao, Y., Gao, C., Hou, D., Li, W., & Cao, Y.. IEEE/ASME Transactions on Mechatronics, 1-12, 2025. DOI: [10.1109/tmech.2025.3618933](https://doi.org/10.1109/tmech.2025.3618933).
