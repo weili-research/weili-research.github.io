@@ -12,7 +12,14 @@ redirect_from:
 Summary
 ======
 
-Professor, PhD Supervisor, and Director of the Smart Mechatronics &amp; Integration Lab at Nanjing University of Posts and Telecommunications. National High-Level Young Talent (Overseas), Distinguished Professor of Jiangsu Province, and IEEE Senior Member. Expertise: mechatronics, robotics, MEMS, flexible electronics, and intelligent sensing.
+Professor, PhD Supervisor, and Director of the Smart Mechatronics &amp; Integration Lab at Nanjing University of Posts and Telecommunications. IEEE Senior Member. Expertise: mechatronics, robotics, MEMS, flexible electronics, tethered microrobotic platforms, and intelligent sensing.
+
+Honors
+======
+
+* National High-Level Young Talent (Overseas)
+* Distinguished Professor of Jiangsu Province
+* Specially Appointed Expert of the Federation of Returned Overseas Chinese of Jiangsu Province
 
 Education
 ---------
@@ -58,11 +65,18 @@ Teaching
 Academic service
 ----------------
 
-* Guest Editor, *Micromachines* special issue “Piezoelectric MEMS/NEMS - Materials, Devices, and Applications” (2022–2026).
-* Guest Editor, *Frontiers in Bioengineering and Biotechnology* special issue “Nanogenerator Technologies bridging Bioengineering and Human-Machine Integration” (2025).
-* Section Chair, IEEE ICICM 2023; Local Chair, SAMDE 2023.
-* Reviewer for IEEE T-MECH, IEEE T-RO, IEEE ICRA, Advanced Functional Materials, APL, and related journals.
-* Member of the IEEE Robotics and Automation, Industrial Electronics, Dielectrics and Electrical Insulation, Antennas and Propagation, and Microwave Theory and Technology Societies.
+* Guest Editor, *Micromachines*, Special Issue “Piezoelectric MEMS/NEMS - Materials, Devices, and Applications” (2022–2026).
+* Guest Editor, *Frontiers in Bioengineering and Biotechnology*, Special Issue “Nanogenerator Technologies bridging Bioengineering and Human-Machine Integration” (2025).
+* Section Chair, International Conference on Integrated Circuits and Microsystems (IEEE ICICM 2023).
+* Local Chair, International Symposium on Automation, Mechanical and Design Engineering (SAMDE 2023).
+* Reviewer of IEEE T-MECH, IEEE T-RO, IEEE ICRA, Advanced Functional Materials, APL, and related journals.
+* Mentor of Senior Experience in Engineering Design (SEED), University of Vermont.
+* Member of IEEE Robotics and Automation Society.
+* Member of IEEE Industrial Electronics Society.
+* Member of Dielectrics and Electrical Insulation Society.
+* Member of IEEE Antennas and Propagation Society.
+* Member of IEEE Microwave Theory and Technology Society.
+* Young Editorial Board Member of *Nano-Micro Letters*, *FlexMat*, *Soft Science*, and related journals.
 
 Publications
 ------------
