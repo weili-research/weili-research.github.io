@@ -10,4 +10,4 @@ paperurl: '/files/papers/2026-ultra-miniaturized-dual-band-mimo-antenna-for-biom
 title_link: false
 ---
 
-<i>Ultra-Miniaturized Dual-Band MIMO Antenna for Biomedical Implantable Devices in Wireless Health Monitoring Systems</i> — Bashir, T., Chen, S., Feng, G., Cao, Y., & Li, W.*. <i>Biosensors</i> <b>16</b>(3), 163 (2026). DOI: [10.3390/bios16030163](https://doi.org/10.3390/bios16030163).
+Bashir, T., Chen, S., Feng, G., Cao, Y., & Li, W.* <i>Biosensors</i> <b>16</b>(3), 163 (2026). DOI: [10.3390/bios16030163](https://doi.org/10.3390/bios16030163).

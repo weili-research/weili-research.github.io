@@ -10,4 +10,4 @@ paperurl: '/files/papers/2026-controlled-flight-of-high-thrust-ultralight-ion-pr
 title_link: false
 ---
 
-<i>Controlled flight of high-thrust ultralight ion-propelled microrobot with integrated sensing</i> — Tao, Q., Gu, Y., Wang, X. <i>et al.</i> <i>Nat Commun</i> <b>17</b>, 9530 (2026). DOI: [10.1038/s41467-026-76462-y](https://doi.org/10.1038/s41467-026-76462-y).
+Tao, Q., Gu, Y., Wang, X., Chen, Z., Lv, F., Xu, F., Bashir, T., Zheng, Y., Cao, Y., Cai, X., Thakuri, K., Han, B., & Li, W.* <i>Nature Communications</i> <b>17</b>, 9530 (2026). DOI: [10.1038/s41467-026-76462-y](https://doi.org/10.1038/s41467-026-76462-y).
