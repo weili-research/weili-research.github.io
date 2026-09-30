@@ -28,7 +28,7 @@
 
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a>
+        <a href="{{ post.link }}" style="color: inherit;">{{ title }}</a>
       {% elsif post.title_link == false %}
         {{ title }}
       {% else %}
@@ -55,7 +55,7 @@
     {% endif %}
 
     {% if post.collection == 'publications' and post.paperurl %}
-      <p><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} &nbsp; <a href="{{ post.paperurl }}">Download Paper</a></p>
+      <p>{{ post.publication_info | default: post.venue }} &nbsp; <a href="{{ post.paperurl }}">Download Paper</a></p>
     {% endif %}
 
     {% if post.authors %}
