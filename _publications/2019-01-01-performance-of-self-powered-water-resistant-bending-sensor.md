@@ -1,6 +1,6 @@
 ---
 title: "Performance of Self-Powered, Water-Resistant Bending Sensor Using Transverse Piezoelectric Effect of Polypropylene Ferroelectret Polymer"
-link: 'https://doi.org/10'
+link: 'https://doi.org/10.1109/JSEN.2019.2933174'
 collection: publications
 category: manuscripts
 permalink: /publication/2019-01-01-performance-of-self-powered-water-resistant-bending-sensor

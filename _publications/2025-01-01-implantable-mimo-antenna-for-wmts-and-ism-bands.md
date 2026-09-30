@@ -1,6 +1,6 @@
 ---
 title: "Implantable MIMO Antenna for WMTS and ISM Bands in Leadless Cardiac Pacemaker System"
-link: 'https://doi.org/10'
+link: 'https://doi.org/10.1109/ucmmt67044.2025.11287781'
 collection: publications
 category: conferences
 permalink: /publication/2025-01-01-implantable-mimo-antenna-for-wmts-and-ism-bands

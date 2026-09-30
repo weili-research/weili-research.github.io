@@ -1,6 +1,6 @@
 ---
 title: "Enabling the 6G and IoT-Verse: Non-Radiative Dielectric (NRD) Waveguides for Millimeter-Wave Communications"
-link: 'https://doi.org/10'
+link: 'https://doi.org/10.1109/JIOT.2026.3676274'
 collection: publications
 category: manuscripts
 permalink: /publication/2026-01-01-enabling-the-6g-and-iot-verse-non-radiative

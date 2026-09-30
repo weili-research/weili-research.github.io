@@ -1,6 +1,6 @@
 ---
 title: "Ferroelectret nanogenerators for the development of bioengineering systems"
-link: 'https://doi.org/10'
+link: 'https://doi.org/10.1016/j.xcrp.2023.101388'
 collection: publications
 category: manuscripts
 permalink: /publication/2023-01-01-ferroelectret-nanogenerators-for-the-development-of-bioengineering-systems

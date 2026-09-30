@@ -1,6 +1,6 @@
 ---
 title: "Microrobotic Flight Enabled by Ultralight Ion Thrusters with High Thrust-to-Weight Ratio and Low Fabrication Cost"
-link: 'https://doi.org/10'
+link: 'https://doi.org/10.1109/ICRA57147.2024.10611166'
 collection: publications
 category: conferences
 permalink: /publication/2024-01-01-microrobotic-flight-enabled-by-ultralight-ion-thrusters-with

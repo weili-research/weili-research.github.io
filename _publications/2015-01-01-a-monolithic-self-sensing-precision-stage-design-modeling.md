@@ -1,6 +1,6 @@
 ---
 title: "A Monolithic Self-Sensing Precision Stage: Design, Modeling, Calibration, and Hysteresis Compensation"
-link: 'https://doi.org/10'
+link: 'https://doi.org/10.1109/TMECH.2014.2306231'
 collection: publications
 category: manuscripts
 permalink: /publication/2015-01-01-a-monolithic-self-sensing-precision-stage-design-modeling

@@ -1,6 +1,6 @@
 ---
 title: "A Multi-Functional VOC Sensor Based on Cascaded Quartz Crystal Resonators"
-link: 'https://doi.org/10'
+link: 'https://doi.org/10.1109/LED.2025.3528024'
 collection: publications
 category: manuscripts
 permalink: /publication/2025-01-01-a-multi-functional-voc-sensor-based-on-cascaded

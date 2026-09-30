@@ -1,6 +1,6 @@
 ---
 title: "Understanding the dynamic response in ferroelectret nanogenerators to enable self-powered tactile systems and human-controlled micro-robots"
-link: 'https://doi.org/10'
+link: 'https://doi.org/10.1016/j.nanoen.2019.06.048'
 collection: publications
 category: manuscripts
 permalink: /publication/2019-01-01-understanding-the-dynamic-response-in-ferroelectret-nanogenerators-to

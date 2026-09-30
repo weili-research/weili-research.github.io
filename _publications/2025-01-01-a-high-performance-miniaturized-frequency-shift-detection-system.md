@@ -1,6 +1,6 @@
 ---
 title: "A High-Performance Miniaturized Frequency Shift Detection System for QCM-Based Gravimetric Sensing"
-link: 'https://doi.org/10'
+link: 'https://doi.org/10.1002/adsr.202400148'
 collection: publications
 category: manuscripts
 permalink: /publication/2025-01-01-a-high-performance-miniaturized-frequency-shift-detection-system

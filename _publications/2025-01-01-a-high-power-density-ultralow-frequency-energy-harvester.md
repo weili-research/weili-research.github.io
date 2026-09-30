@@ -1,6 +1,6 @@
 ---
 title: "A High-Power-Density Ultralow-Frequency Energy Harvester Based on a Magnetic Rotor With Built-In Eccentricity and Ferromagnetic Fillers"
-link: 'https://doi.org/10'
+link: 'https://doi.org/10.1109/tmech.2025.3618933'
 collection: publications
 category: manuscripts
 permalink: /publication/2025-01-01-a-high-power-density-ultralow-frequency-energy-harvester
