@@ -1,6 +1,7 @@
 ---
 title: "Evaluating head impact intensities and accelerations using flexible wearable sensors for traumatic brain injury assessment"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-evaluating-head-impact-intensities-and-accelerations-using-flexible
 excerpt: 'DOI: 10.1016/j.sna.2024.115443'
 date: 2024-01-01

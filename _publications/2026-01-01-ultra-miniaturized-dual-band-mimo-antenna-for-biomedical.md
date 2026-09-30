@@ -1,6 +1,7 @@
 ---
 title: "Ultra-Miniaturized Dual-Band MIMO Antenna for Biomedical Implantable Devices in Wireless Health Monitoring Systems"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-01-01-ultra-miniaturized-dual-band-mimo-antenna-for-biomedical
 excerpt: 'DOI: 10.3390/bios16030163'
 date: 2026-01-01

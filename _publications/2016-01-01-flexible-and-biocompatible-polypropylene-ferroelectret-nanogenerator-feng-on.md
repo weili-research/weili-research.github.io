@@ -1,6 +1,7 @@
 ---
 title: "Flexible and biocompatible polypropylene ferroelectret nanogenerator (FENG): On the path toward wearable devices powered by human motion"
 collection: publications
+category: manuscripts
 permalink: /publication/2016-01-01-flexible-and-biocompatible-polypropylene-ferroelectret-nanogenerator-feng-on
 excerpt: 'DOI: 10.1016/j.nanoen.2016.10.007'
 date: 2016-01-01

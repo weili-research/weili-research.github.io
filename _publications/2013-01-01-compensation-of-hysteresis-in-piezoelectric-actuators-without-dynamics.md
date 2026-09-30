@@ -1,6 +1,7 @@
 ---
 title: "Compensation of hysteresis in piezoelectric actuators without dynamics modeling"
 collection: publications
+category: manuscripts
 permalink: /publication/2013-01-01-compensation-of-hysteresis-in-piezoelectric-actuators-without-dynamics
 excerpt: 'DOI: 10.1016/j.sna.2013.04.036'
 date: 2013-01-01

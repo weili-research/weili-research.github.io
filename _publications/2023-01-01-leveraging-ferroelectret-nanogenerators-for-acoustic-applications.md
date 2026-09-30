@@ -1,6 +1,7 @@
 ---
 title: "Leveraging Ferroelectret Nanogenerators for Acoustic Applications"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-01-01-leveraging-ferroelectret-nanogenerators-for-acoustic-applications
 excerpt: 'DOI: 10.3390/mi14122145'
 date: 2023-01-01

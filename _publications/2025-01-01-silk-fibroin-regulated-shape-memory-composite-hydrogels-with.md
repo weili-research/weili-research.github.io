@@ -1,6 +1,7 @@
 ---
 title: "Silk Fibroin-Regulated Shape Memory Composite Hydrogels with Tunable Recovery Time"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-silk-fibroin-regulated-shape-memory-composite-hydrogels-with
 excerpt: 'DOI: 10.1002/adfm.202531055'
 date: 2025-01-01

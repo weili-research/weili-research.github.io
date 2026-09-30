@@ -1,6 +1,7 @@
 ---
 title: "Exploring the application of ferroelectret nanogenerators in medical engineering"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-exploring-the-application-of-ferroelectret-nanogenerators-in-medical
 excerpt: 'DOI: 10.1002/flm2.44'
 date: 2025-01-01

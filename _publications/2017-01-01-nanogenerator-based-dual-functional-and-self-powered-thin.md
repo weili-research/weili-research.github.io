@@ -1,6 +1,7 @@
 ---
 title: "Nanogenerator-based dual-functional and self-powered thin patch loudspeaker or microphone for flexible electronics"
 collection: publications
+category: manuscripts
 permalink: /publication/2017-01-01-nanogenerator-based-dual-functional-and-self-powered-thin
 excerpt: 'DOI: 10.1038/ncomms15310'
 date: 2017-01-01

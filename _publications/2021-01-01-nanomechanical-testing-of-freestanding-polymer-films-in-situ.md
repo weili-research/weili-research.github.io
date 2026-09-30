@@ -1,6 +1,7 @@
 ---
 title: "Nanomechanical testing of freestanding polymer films: In situ tensile testing and Tg measurement"
 collection: publications
+category: manuscripts
 permalink: /publication/2021-01-01-nanomechanical-testing-of-freestanding-polymer-films-in-situ
 excerpt: 'DOI: 10.1557/s43578-021-00163-z'
 date: 2021-01-01

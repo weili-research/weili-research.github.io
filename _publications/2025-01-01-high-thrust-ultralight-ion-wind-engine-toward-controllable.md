@@ -1,6 +1,7 @@
 ---
 title: "High-thrust ultralight ion wind engine toward controllable aerial microrobots"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-high-thrust-ultralight-ion-wind-engine-toward-controllable
 excerpt: 'DOI: 10.1016/j.energy.2025.139027'
 date: 2025-01-01

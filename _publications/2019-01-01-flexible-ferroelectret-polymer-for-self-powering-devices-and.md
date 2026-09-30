@@ -1,6 +1,7 @@
 ---
 title: "Flexible Ferroelectret Polymer for Self-Powering Devices and Energy Storage Systems"
 collection: publications
+category: manuscripts
 permalink: /publication/2019-01-01-flexible-ferroelectret-polymer-for-self-powering-devices-and
 excerpt: 'DOI: 10.1021/acsami.9b02233'
 date: 2019-01-01

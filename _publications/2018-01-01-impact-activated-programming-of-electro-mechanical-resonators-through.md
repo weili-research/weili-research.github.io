@@ -1,6 +1,7 @@
 ---
 title: "Impact-activated programming of electro-mechanical resonators through ferroelectret nanogenerator (FENG) and vanadium dioxide"
 collection: publications
+category: manuscripts
 permalink: /publication/2018-01-01-impact-activated-programming-of-electro-mechanical-resonators-through
 excerpt: 'DOI: 10.1016/j.nanoen.2017.10.066'
 date: 2018-01-01

@@ -1,6 +1,7 @@
 ---
 title: "Impedance Analysis of Porous-Material-Functionalized RF Sensors toward Intelligent E-Nose and E-Tongue for Multidisciplinary Monitoring"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-01-01-impedance-analysis-of-porous-material-functionalized-rf-sensors
 excerpt: 'DOI: 10.1021/acsami.6c08905'
 date: 2026-01-01

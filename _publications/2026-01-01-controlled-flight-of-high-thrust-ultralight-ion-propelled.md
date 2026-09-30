@@ -1,6 +1,7 @@
 ---
 title: "Controlled flight of high-thrust ultralight ion-propelled microrobot with integrated sensing"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-01-01-controlled-flight-of-high-thrust-ultralight-ion-propelled
 excerpt: 'DOI: 10.1038/s41467-026-76462-y'
 date: 2026-01-01

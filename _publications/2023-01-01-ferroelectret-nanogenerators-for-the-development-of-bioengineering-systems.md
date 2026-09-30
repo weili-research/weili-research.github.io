@@ -1,6 +1,7 @@
 ---
 title: "Ferroelectret nanogenerators for the development of bioengineering systems"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-01-01-ferroelectret-nanogenerators-for-the-development-of-bioengineering-systems
 excerpt: 'DOI: 10.1016/j.xcrp.2023.101388'
 date: 2023-01-01

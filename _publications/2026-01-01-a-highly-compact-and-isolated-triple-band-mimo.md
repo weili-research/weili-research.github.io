@@ -1,6 +1,7 @@
 ---
 title: "A Highly Compact and Isolated Triple-Band MIMO Antenna for Wireless Capsule Endoscopy and Cardiac Implant"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-01-01-a-highly-compact-and-isolated-triple-band-mimo
 excerpt: 'DOI: 10.3390/mi17030296'
 date: 2026-01-01

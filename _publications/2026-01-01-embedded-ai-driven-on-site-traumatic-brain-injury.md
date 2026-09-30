@@ -1,6 +1,7 @@
 ---
 title: "Embedded-AI-Driven On-Site Traumatic Brain Injury Assessment Using Wireless Flexible Wearable Sensors for Real-Time Impact Force and Acceleration Estimation"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-01-01-embedded-ai-driven-on-site-traumatic-brain-injury
 excerpt: 'DOI: 10.1109/jiot.2026.3655010'
 date: 2026-01-01
