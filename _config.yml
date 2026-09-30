@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Wei Li / Research Group"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Wei Li Research Group"
+description              : &description "Smart mechatronics, microrobotics, flexible electronics, and intelligent sensing"
 url                      : "https://weili-research.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Wei Li Group"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Smart mechatronics, microrobotics, flexible electronics, and intelligent sensing"
   location         : "Nanjing, China"
-  employer         : "NJUPT, HUST"
+  employer         : "Nanjing University of Posts and Telecommunications"
   uri              : # URL
   email            : "wei.li@njupt.edu.cn" 
 

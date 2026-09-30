@@ -37,3 +37,27 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+.lab-hero { padding: 4rem 3rem; margin: 0 0 3rem; border-radius: 18px; background: linear-gradient(135deg, #0f3d4c 0%, #167a7c 100%); color: #fff; }
+.lab-kicker { margin: 0 0 .8rem; color: #54d2c8; font-size: .75rem; font-weight: 700; letter-spacing: .14em; }
+.lab-hero h1 { max-width: 760px; margin: 0 0 1rem; color: #fff; font-size: clamp(2.2rem, 5vw, 4.2rem); line-height: 1.05; }
+.lab-lead { max-width: 700px; color: #d8f3f0; font-size: 1.15rem; line-height: 1.7; }
+.lab-actions { display: flex; flex-wrap: wrap; gap: .8rem; margin-top: 1.8rem; }
+.lab-button { display: inline-block; padding: .7rem 1rem; border-radius: 7px; font-weight: 700; text-decoration: none; }
+.lab-button--primary { background: #f3c969; color: #16353e !important; }
+.lab-button--secondary { border: 1px solid rgba(255,255,255,.55); color: #fff !important; }
+.lab-section { margin: 3rem 0; }
+.lab-section h2 { margin-top: 0; }
+.lab-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; }
+.lab-card { padding: 1.4rem; border: 1px solid #dce7e8; border-radius: 12px; background: #fff; box-shadow: 0 8px 22px rgba(15,61,76,.07); }
+.lab-card h2 { color: #0f5960; font-size: 1.25rem; }
+.lab-card p { margin-bottom: 0; color: #53666b; }
+.lab-section--split { display: grid; grid-template-columns: 1.4fr .8fr; gap: 3rem; align-items: center; }
+.lab-stat-panel { display: grid; grid-template-columns: repeat(3, 1fr); gap: .7rem; }
+.lab-stat-panel div { padding: 1rem .6rem; border-radius: 10px; background: #edf8f7; text-align: center; }
+.lab-stat-panel strong, .lab-stat-panel span { display: block; }
+.lab-stat-panel strong { color: #0f5960; font-size: 1.8rem; }
+.lab-stat-panel span { color: #53666b; font-size: .8rem; }
+.lab-callout { display: flex; align-items: center; justify-content: space-between; gap: 1rem; margin: 3rem 0; padding: 1.5rem 1.8rem; border-radius: 12px; background: #f0f6f6; }
+.lab-callout h2 { margin: 0; }
+@media (max-width: 700px) { .lab-hero { padding: 2.5rem 1.5rem; } .lab-grid, .lab-section--split { grid-template-columns: 1fr; } .lab-callout { align-items: flex-start; flex-direction: column; } }
