@@ -1,6 +1,6 @@
 ---
 title: "Thin Film Piezoelectric Nanogenerator Based on (100)-Oriented Nanocrystalline AlN Grown by Pulsed Laser Deposition at Room Temperature"
-link: 'https://doi.org/10.3390/mi14010099'
+link: 'https://www.mdpi.com/2072-666X/14/1/99'
 collection: publications
 category: manuscripts
 permalink: /publication/2023-01-01-thin-film-piezoelectric-nanogenerator-based-on-100-oriented

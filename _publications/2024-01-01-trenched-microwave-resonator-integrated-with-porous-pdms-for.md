@@ -1,6 +1,6 @@
 ---
 title: "Trenched microwave resonator integrated with porous PDMS for detection and classification of VOCs with enhanced performance"
-link: 'https://doi.org/10.1016/j.jhazmat.2024.134553'
+link: 'https://linkinghub.elsevier.com/retrieve/pii/S0304389424011324'
 collection: publications
 category: manuscripts
 permalink: /publication/2024-01-01-trenched-microwave-resonator-integrated-with-porous-pdms-for

@@ -1,6 +1,6 @@
 ---
 title: "Radiation Diversity Enabled Self-Isolated Compact Dual-Band Cubic MIMO Antenna for Wireless Biomedical Implants in Variable and Dynamic Environment"
-link: 'https://doi.org/10.1109/jmw.2025.3583891'
+link: 'https://ieeexplore.ieee.org/document/11091378/'
 collection: publications
 category: manuscripts
 permalink: /publication/2025-01-01-radiation-diversity-enabled-self-isolated-compact-dual-band

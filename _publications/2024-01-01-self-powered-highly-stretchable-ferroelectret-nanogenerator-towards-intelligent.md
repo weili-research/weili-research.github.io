@@ -1,6 +1,6 @@
 ---
 title: "Self-powered highly stretchable ferroelectret nanogenerator towards intelligent sports"
-link: 'https://doi.org/10.1016/j.nwnano.2024.100053'
+link: 'https://linkinghub.elsevier.com/retrieve/pii/S2666978124000230'
 collection: publications
 category: manuscripts
 permalink: /publication/2024-01-01-self-powered-highly-stretchable-ferroelectret-nanogenerator-towards-intelligent

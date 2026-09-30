@@ -1,6 +1,6 @@
 ---
 title: "Highly Stretchable Shape Memory Hydrogels with Silk-Fibroin Semi-Interpenetrating Networks for Drug-Delivery Microrobot"
-link: 'https://doi.org/10.1109/ucmmt67044.2025.11287593'
+link: 'https://ieeexplore.ieee.org/document/11287593/'
 collection: publications
 category: conferences
 permalink: /publication/2025-01-01-highly-stretchable-shape-memory-hydrogels-with-silk-fibroin

@@ -1,6 +1,6 @@
 ---
 title: "Controlled flight of high-thrust ultralight ion-propelled microrobot with integrated sensing"
-link: 'https://doi.org/10.1038/s41467-026-76462-y'
+link: 'https://www.nature.com/articles/s41467-026-76462-y'
 collection: publications
 category: manuscripts
 permalink: /publication/2026-01-01-controlled-flight-of-high-thrust-ultralight-ion-propelled

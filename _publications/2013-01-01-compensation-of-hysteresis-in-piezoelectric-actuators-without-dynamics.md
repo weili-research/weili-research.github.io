@@ -1,6 +1,6 @@
 ---
 title: "Compensation of hysteresis in piezoelectric actuators without dynamics modeling"
-link: 'https://doi.org/10.1016/j.sna.2013.04.036'
+link: 'https://linkinghub.elsevier.com/retrieve/pii/S0924424713002008'
 collection: publications
 category: manuscripts
 permalink: /publication/2013-01-01-compensation-of-hysteresis-in-piezoelectric-actuators-without-dynamics

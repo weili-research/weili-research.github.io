@@ -1,6 +1,6 @@
 ---
 title: "Inverse compensation for hysteresis in piezoelectric actuator using an asymmetric rate-dependent model"
-link: 'https://doi.org/10.1063/1.4833399'
+link: 'https://pubs.aip.org/rsi/article/84/11/115003/358734/Inverse-compensation-for-hysteresis-in'
 collection: publications
 category: manuscripts
 permalink: /publication/2013-01-01-inverse-compensation-for-hysteresis-in-piezoelectric-actuator-using

@@ -1,6 +1,6 @@
 ---
 title: "Compact Dual-Band 3D MIMO Antenna for Wireless Biomedical Implantable Devices"
-link: 'https://doi.org/10.1109/ucmmt67044.2025.11286680'
+link: 'https://ieeexplore.ieee.org/document/11286680/'
 collection: publications
 category: conferences
 permalink: /publication/2025-01-01-compact-dual-band-3d-mimo-antenna-for-wireless

@@ -1,6 +1,6 @@
 ---
 title: "Fully Printed Silver-Nanoparticle-Based Strain Gauges with Record High Sensitivity"
-link: 'https://doi.org/10.1002/aelm.201700067'
+link: 'https://advanced.onlinelibrary.wiley.com/doi/10.1002/aelm.201700067'
 collection: publications
 category: manuscripts
 permalink: /publication/2017-01-01-fully-printed-silver-nanoparticle-based-strain-gauges-with

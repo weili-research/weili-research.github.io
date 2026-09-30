@@ -1,6 +1,6 @@
 ---
 title: "Quick self-assembly of bio-inspired multi-dimensional well-ordered structures induced by ultrasonic wave energy"
-link: 'https://doi.org/10.1371/journal.pone.0246453'
+link: 'https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0246453'
 collection: publications
 category: manuscripts
 permalink: /publication/2021-01-01-quick-self-assembly-of-bio-inspired-multi-dimensional

@@ -1,6 +1,6 @@
 ---
 title: "Recent Advances in the Application of Piezoelectric Materials in Microrobotic Systems"
-link: 'https://doi.org/10.3390/mi13091422'
+link: 'https://www.mdpi.com/2072-666X/13/9/1422'
 collection: publications
 category: manuscripts
 permalink: /publication/2022-01-01-recent-advances-in-the-application-of-piezoelectric-materials

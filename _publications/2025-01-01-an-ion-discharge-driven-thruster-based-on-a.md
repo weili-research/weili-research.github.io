@@ -1,6 +1,6 @@
 ---
 title: "An Ion Discharge-Driven Thruster Based on a Lithium Niobate Piezoelectric Transformer"
-link: 'https://doi.org/10.3390/mi16030277'
+link: 'https://www.mdpi.com/2072-666X/16/3/277'
 collection: publications
 category: manuscripts
 permalink: /publication/2025-01-01-an-ion-discharge-driven-thruster-based-on-a

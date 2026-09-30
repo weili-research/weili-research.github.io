@@ -1,6 +1,6 @@
 ---
 title: "15 Millinewton Force, 1 Millimeter Displacement, Low-Power MEMS Gripper"
-link: 'https://doi.org/10.1109/MEMS46641.2020.9056128'
+link: 'https://ieeexplore.ieee.org/document/9056128/'
 collection: publications
 category: conferences
 permalink: /publication/2020-01-01-15-millinewton-force-1-millimeter-displacement-low-power

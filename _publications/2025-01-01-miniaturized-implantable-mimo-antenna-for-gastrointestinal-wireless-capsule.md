@@ -1,6 +1,6 @@
 ---
 title: "Miniaturized Implantable MIMO Antenna for Gastrointestinal Wireless Capsule Endoscopy"
-link: 'https://doi.org/10.1109/ucmmt67044.2025.11287480'
+link: 'https://ieeexplore.ieee.org/document/11287480/'
 collection: publications
 category: conferences
 permalink: /publication/2025-01-01-miniaturized-implantable-mimo-antenna-for-gastrointestinal-wireless-capsule

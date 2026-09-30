@@ -1,6 +1,6 @@
 ---
 title: "Room-Temperature Single-Molecule Mass Detection via Feedback Control of ZnO Nanowire Resonator"
-link: 'https://doi.org/10.1021/acsami.5c06688'
+link: 'https://pubs.acs.org/doi/10.1021/acsami.5c06688'
 collection: publications
 category: manuscripts
 permalink: /publication/2025-01-01-room-temperature-single-molecule-mass-detection-via-feedback

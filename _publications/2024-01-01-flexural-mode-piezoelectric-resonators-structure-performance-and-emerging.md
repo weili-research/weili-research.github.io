@@ -1,6 +1,6 @@
 ---
 title: "Flexural-Mode Piezoelectric Resonators: Structure, Performance, and Emerging Applications in Physical Sensing Technology, Micropower Systems, and Biomedicine"
-link: 'https://doi.org/10.3390/s24113625'
+link: 'https://www.mdpi.com/1424-8220/24/11/3625'
 collection: publications
 category: manuscripts
 permalink: /publication/2024-01-01-flexural-mode-piezoelectric-resonators-structure-performance-and-emerging
