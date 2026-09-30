@@ -55,7 +55,7 @@
     {% endif %}
 
     {% if post.authors %}
-      <p>{{ post.authors | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+      <p>{{ post.authors }}</p>
     {% endif %}
 
     {% if post.collection == 'publications' and post.paperurl %}
