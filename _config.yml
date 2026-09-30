@@ -23,7 +23,7 @@ repository               : "weili-research/weili-research.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "wei-li.jpg"
   name             : "Prof. Wei Li"
   pronouns         : # example: "she/her"  
   bio              : "Smart mechatronics, microrobotics, flexible electronics, and intelligent sensing"

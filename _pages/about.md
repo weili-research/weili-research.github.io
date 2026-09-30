@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div class="lab-hero">
+<div class="lab-hero"><img class="lab-portrait" src="/images/wei-li.jpg" alt="Prof. Wei Li" />
   <p class="lab-kicker">SMART MECHATRONICS &amp; INTEGRATION LAB</p>
   <h1>Engineering intelligent machines at the micro scale.</h1>
   <p class="lab-lead">We develop microrobots, flexible electronics, sensors, and self-powered systems that connect materials, mechanics, electronics, and intelligent control.</p>
@@ -30,3 +30,4 @@ redirect_from:
 <div class="lab-section"><p class="lab-kicker">MEDIA</p><h2>Media coverage</h2><p>Xinhua Net · People’s Daily (Overseas Edition) · The Wall Street Journal · The Christian Science Monitor · Voice of America · EENews Europe · National Science Foundation · AAAS · Daily Mail · Phys.org · ScienceDaily · NPR</p></div>
 
 <div class="lab-callout"><div><p class="lab-kicker">LATEST WORK</p><h2>See the full publication record</h2></div><a class="lab-button lab-button--primary" href="/publications/">View all papers →</a></div>
+
