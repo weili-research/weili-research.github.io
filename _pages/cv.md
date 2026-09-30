@@ -12,7 +12,7 @@ redirect_from:
 Summary
 ======
 
-Professor, PhD Supervisor, and Director of the Smart Mechatronics &amp; Integration Lab at Nanjing University of Posts and Telecommunications. IEEE Senior Member. Expertise: mechatronics, robotics, MEMS, flexible electronics, tethered microrobotic platforms, and intelligent sensing.
+Professor, and Director of the Smart Mechatronics &amp; Integration Lab. IEEE Senior Member. Expertise: mechatronics, robotics, MEMS, flexible electronics.
 
 Honors
 ======
@@ -53,19 +53,11 @@ Selected funded projects
 * High-Robust Flexible Intelligent Perception System for Low-Altitude Complex Environments, Co-PI, State Key Laboratory of Flexible Electronics (2025–2029).
 * Short-Range Independent Microrobotic Platform, Participant, DARPA / UC Berkeley (2019–2020).
 
-Teaching
---------
-
-* Microelectromechanical Systems (MEMS)
-* Introduction to Robotics
-* Control Systems
-* Micro/Nano Robotics
-* Integrated Circuit Fabrication Process
 
 Academic service
 ----------------
-
-* Guest Editor, *Micromachines*, Special Issue “Piezoelectric MEMS/NEMS - Materials, Devices, and Applications” (2022–2026).
+* Guest Editor, *Micromachines*, Special Issue “Micro/Nano-Sensing and Wireless Systems for Biomedical Applications” (2026).
+* Guest Editor, *Micromachines*, Special Issue “Piezoelectric MEMS/NEMS - Materials, Devices, and Applications” (2022–2025).
 * Guest Editor, *Frontiers in Bioengineering and Biotechnology*, Special Issue “Nanogenerator Technologies bridging Bioengineering and Human-Machine Integration” (2025).
 * Section Chair, International Conference on Integrated Circuits and Microsystems (IEEE ICICM 2023).
 * Local Chair, International Symposium on Automation, Mechanical and Design Engineering (SAMDE 2023).
