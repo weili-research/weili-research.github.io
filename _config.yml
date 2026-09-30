@@ -24,12 +24,12 @@ repository               : "weili-research/weili-research.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Wei Li Group"
+  name             : "Prof. Wei Li（李巍）"
   pronouns         : # example: "she/her"  
   bio              : "Smart mechatronics, microrobotics, flexible electronics, and intelligent sensing"
   location         : "Nanjing, China"
   employer         : "Nanjing University of Posts and Telecommunications"
-  uri              : # URL
+  uri              : "https://www.weiligroup.net/"
   email            : "wei.li@njupt.edu.cn" 
 
   # Academic websites
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-1396-9692"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "weili-research"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
