@@ -8,7 +8,7 @@ date: 2025-01-01
 venue: 'IEEE Journal of Microwaves, 1-18'
 paperurl: '/files/papers/2025-radiation-diversity-enabled-self-isolated-compact-dual-band.pdf'
 publication_info: '<i>IEEE Journal of Microwaves</i>, 1–18 (2025).'
-authors: 'T Bashir, <strong>Wei Li</strong>, T Xia.'
+authors: 'T Bashir, <strong>Wei Li</strong>*, T Xia.'
 citation: 'Bashir, T., Li, W., & Xia, T. (2025). &quot;Radiation Diversity Enabled Self-Isolated Compact Dual-Band Cubic MIMO Antenna for Wireless Biomedical Implants in Variable and Dynamic Environment.&quot; <i>IEEE Journal of Microwaves, 1-18</i>. DOI: 10.1109/jmw.2025.3583891.'
 ---
 
