@@ -86,7 +86,12 @@ See the complete list of **43 publications** on the [Publications](/publications
 Patents
 -------
 
-The CV includes patents and applications covering ferroelectret materials, flexible force sensors, microrobots, ion-wind aircraft, nanowire resonators, vibration isolation, and precision stages.
+More than 30 patent applications covering ferroelectret materials, flexible force sensors, microrobots, ion-wind aircraft, nanowire resonators, vibration isolation, and precision stages.
+
+Media coverage
+--------------
+
+Xinhua Net; People’s Daily (Overseas Edition); The Wall Street Journal; The Christian Science Monitor; Voice of America; EENews Europe; National Science Foundation; AAAS; Daily Mail; Phys.org; ScienceDaily; and NPR.
 
 Contact
 -------
