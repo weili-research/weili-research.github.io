@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Wei Li / Research Group"
+title                    : "Personal website"
 title_separator          : "-"
 name                     : &name "Wei Li Research Group"
 description              : &description "Smart mechatronics, microrobotics, flexible electronics, and intelligent sensing"
@@ -24,11 +24,11 @@ repository               : "weili-research/weili-research.github.io"
 author:
   # Biographic information
   avatar           : "wei-li.jpg"
-  name             : "Prof. Wei Li"
+  name             : "Wei Li"
   pronouns         : # example: "she/her"  
   bio              : "Smart mechatronics, microrobotics, flexible electronics, and intelligent sensing"
   location         : "Nanjing, China"
-  employer         : "Nanjing University of Posts and Telecommunications"
+  employer         : "NJUPT, HUST"
   uri              : "https://www.weiligroup.net/"
   email            : "wei.li@njupt.edu.cn" 
 
