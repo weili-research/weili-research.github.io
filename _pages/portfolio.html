@@ -1,14 +1,23 @@
 ---
 layout: archive
-title: "Portfolio"
+title: "Facilities"
 permalink: /portfolio/
 author_profile: true
 ---
 
-{% include base_path %}
+<div class="facilities-hero">
+  <p class="lab-kicker">FACILITIES</p>
+  <h1>Spaces that support ambitious research</h1>
+  <p>Our lab combines comfortable collaboration spaces with complete research facilities for building, testing, and translating intelligent microrobotic systems.</p>
+</div>
 
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
-
+<div class="facilities-grid">
+  <article class="facility-card">
+    <img src="/images/facility-office.jpg" alt="Superior office environment" loading="lazy" />
+    <div class="facility-card__body"><p class="lab-kicker">01</p><h2>Superior office environment</h2><p>Comfortable and spacious individual workspaces and efficient team collaboration areas help stimulate thinking and inspire creativity.</p></div>
+  </article>
+  <article class="facility-card">
+    <img src="/images/facility-research.jpg" alt="Complete research facilities" loading="lazy" />
+    <div class="facility-card__body"><p class="lab-kicker">02</p><h2>Complete research facilities</h2><p>Top-notch hardware facilities and a strong research atmosphere provide a nurturing environment for cultivating research dreams and witnessing the innovative power of young scholars.</p></div>
+  </article>
+</div>

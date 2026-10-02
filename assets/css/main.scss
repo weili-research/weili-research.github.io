@@ -87,3 +87,14 @@
 @media (max-width: 900px) { .teaching-grid { grid-template-columns: repeat(2, 1fr); } }
 @media (max-width: 600px) { .teaching-hero { padding: 2rem 1.5rem; } .teaching-grid { grid-template-columns: 1fr; } }
 .lab-portrait { width: 150px; height: 150px; object-fit: cover; border-radius: 50%; border: 4px solid rgba(255,255,255,.8); box-shadow: 0 8px 24px rgba(0,0,0,.2); margin-bottom: 1.2rem; }
+.facilities-hero { padding: 2.8rem 3rem; margin: 0 0 2rem; border-radius: 16px; background: linear-gradient(135deg, #0f3d4c, #167a7c); color: #fff; }
+.facilities-hero h1 { margin: 0 0 .8rem; color: #fff; }
+.facilities-hero p:last-child { max-width: 700px; margin: 0; color: #d8f3f0; font-size: 1.08rem; line-height: 1.7; }
+.facilities-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1.4rem; }
+.facility-card { overflow: hidden; border: 1px solid #dce7e8; border-radius: 14px; background: #fff; box-shadow: 0 8px 24px rgba(15,61,76,.08); }
+.facility-card img { display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; }
+.facility-card__body { padding: 1.45rem 1.5rem 1.6rem; }
+.facility-card__body .lab-kicker { margin: 0 0 .45rem; }
+.facility-card h2 { margin: 0 0 .55rem; color: #0f5960; font-size: 1.35rem; }
+.facility-card p:last-child { margin: 0; color: #53666b; line-height: 1.65; }
+@media (max-width: 700px) { .facilities-hero { padding: 2rem 1.5rem; } .facilities-grid { grid-template-columns: 1fr; } }
