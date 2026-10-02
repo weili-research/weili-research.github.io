@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Personal website"
+title                    : "SMART MECHATRONICS & INTEGRATION LAB"
 title_separator          : "-"
 name                     : &name "Wei Li Research Group"
 description              : &description "Smart mechatronics, microrobotics, flexible electronics, and intelligent sensing"
