@@ -9,24 +9,22 @@ redirect_from:
 
 <p><a class="lab-button lab-button--primary" href="/files/Wei_Li_CV.pdf">Download full CV (PDF)</a></p>
 
-Summary
-======
-
-Professor, and Director of the Smart Mechatronics &amp; Integration Lab. IEEE Senior Member. Expertise: mechatronics, robotics, MEMS, flexible electronics.
-
 Honors
 ======
 
 * National High-Level Young Talent (Overseas)
 * Distinguished Professor of Jiangsu Province
 * Specially Appointed Expert of the Federation of Returned Overseas Chinese of Jiangsu Province
+* IEEE Senior Member
 
-Education
----------
+Education and postdoctoral training
+----------------------------------
 
 * **Ph.D., Mechanical Engineering**, Michigan State University, USA (2014–2017). Advisor: Prof. Nelson Sepulveda.
 * **Ph.D., Mechatronic Engineering**, Huazhong University of Science and Technology, China (2009–2013). Advisor: Prof. Xuedong Chen.
 * **B.S., Mechanical Engineering**, Huazhong University of Science and Technology, China (2004–2008).
+* **Postdoctoral Scholar**, University of California, Berkeley, EECS and Berkeley Sensor &amp; Actuator Center (2017–2020). Advisors: Prof. Kristofer Pister and Prof. Michel Maharbiz.
+* **Affiliate Postdoctoral Fellow**, Lawrence Berkeley National Laboratory, Molecular Foundry (2018–2019). Advisor: Dr. Paul Ashby.
 
 Academic appointments
 ---------------------
@@ -35,8 +33,6 @@ Academic appointments
 * **Huazhong University of Science and Technology**, Adjunct Professor, School of Mechanical Science and Engineering (2025–present).
 * **State Key Laboratory of Flexible Electronics**, Professor (2025–present).
 * **University of Vermont**, Tenure-Track Assistant Professor, Department of Mechanical Engineering (2020–2022).
-* **University of California, Berkeley**, Postdoctoral Scholar, EECS and Berkeley Sensor &amp; Actuator Center (2017–2020). Advisors: Prof. Kristofer Pister and Prof. Michel Maharbiz.
-* **Lawrence Berkeley National Laboratory**, Postdoctoral Scholar, Molecular Foundry (2018–2019). Advisor: Dr. Paul Ashby.
 
 Research interests
 ------------------

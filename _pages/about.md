@@ -1,13 +1,13 @@
 ---
 permalink: /
 title: "Wei Li Research Group"
-author_profile: true
+author_profile: false
 redirect_from:
   - /about/
   - /about.html
 ---
 
-<div class="lab-hero"><img class="lab-portrait" src="/images/wei-li.jpg" alt="Prof. Wei Li" />
+<div class="lab-hero">
   <p class="lab-kicker">SMART MECHATRONICS &amp; INTEGRATION LAB</p>
   <h1>Engineering intelligent machines at the micro scale.</h1>
   <p class="lab-lead">We develop microrobots, flexible electronics, sensors, and self-powered systems that connect materials, mechanics, electronics, and intelligent control.</p>
