@@ -20,11 +20,11 @@ Honors
 Education and postdoctoral training
 ----------------------------------
 
+* **Postdoctoral Scholar**, University of California, Berkeley, EECS and Berkeley Sensor &amp; Actuator Center (2017–2020). Advisors: Prof. Kristofer Pister and Prof. Michel Maharbiz.
+* **Affiliate Postdoctoral Fellow**, Lawrence Berkeley National Laboratory, Molecular Foundry (2018–2019). Advisor: Dr. Paul Ashby.
 * **Ph.D., Mechanical Engineering**, Michigan State University, USA (2014–2017). Advisor: Prof. Nelson Sepulveda.
 * **Ph.D., Mechatronic Engineering**, Huazhong University of Science and Technology, China (2009–2013). Advisor: Prof. Xuedong Chen.
 * **B.S., Mechanical Engineering**, Huazhong University of Science and Technology, China (2004–2008).
-* **Postdoctoral Scholar**, University of California, Berkeley, EECS and Berkeley Sensor &amp; Actuator Center (2017–2020). Advisors: Prof. Kristofer Pister and Prof. Michel Maharbiz.
-* **Affiliate Postdoctoral Fellow**, Lawrence Berkeley National Laboratory, Molecular Foundry (2018–2019). Advisor: Dr. Paul Ashby.
 
 Academic appointments
 ---------------------

@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Wei Li Research Group"
-author_profile: false
+author_profile: true
 redirect_from:
   - /about/
   - /about.html
