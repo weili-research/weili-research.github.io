@@ -40,7 +40,7 @@
 
 .lab-hero { padding: 4rem 3rem; margin: 0 0 3rem; border-radius: 18px; background: linear-gradient(135deg, #0f3d4c 0%, #167a7c 100%); color: #fff; }
 .lab-kicker { margin: 0 0 .8rem; color: #54d2c8; font-size: .75rem; font-weight: 700; letter-spacing: .14em; }
-.lab-hero h1 { max-width: 760px; margin: 0 0 1rem; color: #fff; font-size: clamp(2.2rem, 5vw, 4.2rem); line-height: 1.05; }
+.lab-hero h2 { max-width: 760px; margin: 0 0 1rem; color: #fff; font-size: clamp(2.2rem, 5vw, 4.2rem); line-height: 1.05; }
 .lab-lead { max-width: 700px; color: #d8f3f0; font-size: 1.15rem; line-height: 1.7; }
 .lab-actions { display: flex; flex-wrap: wrap; gap: .8rem; margin-top: 1.8rem; }
 .lab-button { display: inline-block; padding: .7rem 1rem; border-radius: 7px; font-weight: 700; text-decoration: none; }
@@ -64,7 +64,7 @@
 .lab-profile h2 { color: #0f5960; }
 .lab-profile a { color: #0f5960; font-weight: 600; }
 .media-hero { padding: 2.8rem 3rem; margin: 0 0 2rem; border-radius: 16px; background: linear-gradient(135deg, #0f3d4c, #167a7c); color: #fff; }
-.media-hero h1 { margin: 0 0 .8rem; color: #fff; }
+.media-hero h2 { margin: 0 0 .8rem; color: #fff; }
 .media-hero p:last-child { max-width: 680px; margin: 0; color: #d8f3f0; font-size: 1.08rem; line-height: 1.7; }
 .media-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; }
 .media-card { min-height: 150px; padding: 1.3rem; border: 1px solid #dce7e8; border-radius: 12px; background: #fff; box-shadow: 0 7px 20px rgba(15,61,76,.07); transition: transform .2s ease, box-shadow .2s ease; }
@@ -76,7 +76,7 @@
 @media (max-width: 900px) { .media-grid { grid-template-columns: repeat(2, 1fr); } }
 @media (max-width: 600px) { .media-hero { padding: 2rem 1.5rem; } .media-grid { grid-template-columns: 1fr; } }
 .teaching-hero { padding: 2.8rem 3rem; margin: 0 0 2rem; border-radius: 16px; background: linear-gradient(135deg, #0f3d4c, #167a7c); color: #fff; }
-.teaching-hero h1 { margin: 0 0 .8rem; color: #fff; }
+.teaching-hero h2 { margin: 0 0 .8rem; color: #fff; }
 .teaching-hero p:last-child { max-width: 680px; margin: 0; color: #d8f3f0; font-size: 1.08rem; line-height: 1.7; }
 .teaching-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; }
 .teaching-card { min-height: 155px; padding: 1.4rem; border: 1px solid #dce7e8; border-radius: 12px; background: #fff; box-shadow: 0 7px 20px rgba(15,61,76,.07); transition: transform .2s ease, box-shadow .2s ease; }
@@ -88,7 +88,20 @@
 @media (max-width: 600px) { .teaching-hero { padding: 2rem 1.5rem; } .teaching-grid { grid-template-columns: 1fr; } }
 .lab-portrait { width: 150px; height: 150px; object-fit: cover; border-radius: 50%; border: 4px solid rgba(255,255,255,.8); box-shadow: 0 8px 24px rgba(0,0,0,.2); margin-bottom: 1.2rem; }
 .facilities-hero { padding: 2.8rem 3rem; margin: 0 0 2rem; border-radius: 16px; background: linear-gradient(135deg, #0f3d4c, #167a7c); color: #fff; }
-.facilities-hero h1 { margin: 0 0 .8rem; color: #fff; }
+.facilities-hero h2 { margin: 0 0 .8rem; color: #fff; }
+
+.people-hero, .join-hero { padding: 2.8rem 3rem; margin: 0 0 2rem; border-radius: 16px; background: linear-gradient(135deg, #0f5960, #1a7b78); color: #fff; }
+.people-hero h2, .join-hero h2 { margin: 0 0 .8rem; color: #fff; }
+.people-hero p:last-child, .join-hero p:last-child { max-width: 700px; margin: 0; color: #d8f3f0; font-size: 1.08rem; line-height: 1.7; }
+.people-grid, .join-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem; }
+.people-card, .join-card { padding: 1.5rem; border: 1px solid #dce7e8; border-radius: 12px; background: #fff; box-shadow: 0 8px 24px rgba(15, 89, 96, .08); }
+.people-card h2, .join-card h2 { color: #0f5960; font-size: 1.3rem; }
+.people-card p, .join-card p { color: #53666b; line-height: 1.65; }
+.people-card a, .join-card a { color: #0f5960; font-weight: 700; }
+@media (max-width: 600px) {
+  .people-hero, .join-hero { padding: 2rem 1.5rem; }
+  .people-grid, .join-grid { grid-template-columns: 1fr; }
+}
 .facilities-hero p:last-child { max-width: 700px; margin: 0; color: #d8f3f0; font-size: 1.08rem; line-height: 1.7; }
 .facilities-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1.4rem; }
 .facility-card { overflow: hidden; border: 1px solid #dce7e8; border-radius: 14px; background: #fff; box-shadow: 0 8px 24px rgba(15,61,76,.08); }

@@ -69,7 +69,7 @@ Academic service
 Publications
 ------------
 
-See the complete list of **43 publications** on the [Publications](/publications/) page.
+See the complete list of **{{ site.publications | size }} publications** on the [Publications](/publications/) page.
 
 Patents
 -------
